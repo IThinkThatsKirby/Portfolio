@@ -1,0 +1,20 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url(/images/artem-necrasov-YBC07Ibf4jg-unsplash.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+.bbb {
+    border-style: solid;
+    border-bottom-color: green;
+    border-left-color: rebeccapurple;
+}
+.aaa {
+    line-height: 1.8em;
+    border-style: solid;
+    border-spacing:13in;
+    border-radius:5px;
+}
